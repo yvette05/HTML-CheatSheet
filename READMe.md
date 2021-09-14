@@ -11,4 +11,4 @@ CSS selectors and specificity
 Common CSS properties
 
 ## Screenshots
- ![ alt text for screen readers](/path/to/img.png)
+![Image of table](https://octodex.github.com/img.png)
