@@ -11,4 +11,5 @@ CSS selectors and specificity
 Common CSS properties
 
 ## Screenshots
-![alt text] (https://github.com/yvette05/HTML-CheatSheet/blob/main/img.png)
+
+![HTML Table](./img.png)
